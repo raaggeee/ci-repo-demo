@@ -14,8 +14,8 @@ def div(a, b):
     return a / b
 
 
-def mod(a, b):
-    return a % b
+def mod(a, c):
+    return a % c
 
 
 print(add(10, 20))
