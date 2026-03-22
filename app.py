@@ -9,7 +9,9 @@ def sub(a, b):
 def multi(a, b):
     return a * b
 
-print("wow")
+def div(a, b):
+    return a / b
+
 
 print(add(10, 20))
 print(sub(10, 20))
