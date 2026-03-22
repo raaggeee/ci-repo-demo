@@ -9,8 +9,13 @@ def sub(a, b):
 def multi(a, b):
     return a * b
 
+
 def div(a, b):
     return a / b
+
+
+def mod(a, b):
+    return a % b
 
 
 print(add(10, 20))
